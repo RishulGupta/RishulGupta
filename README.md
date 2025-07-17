@@ -2,16 +2,15 @@
 <h3 align="center">🚀 SDE Intern @Naukri.com • Internship Coordinator @ NIT Kurukshetra • IT'27</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=500&lines=Full-Stack+Gen+AI+Developer;Android+%7C+Spring+%7C+TensorFlow+%7C+ONNX;Building+Future-ready+AI+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&width=850&lines=Full-Stack+Gen+AI+Engineer;Android+%7C+Spring+Boot+%7C+LLMs+%7C+LangChain;Building+Agentic+AI+Apps+for+Web+and+Mobile+🚀+++" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ### 🔥 About Me
-- 🧠 Passionate about **Full-Stack AI** and **Agentic Systems**
-- 🔭 Currently working on: `Image Processing` & `NLWeb`
+- 🧠 Passionate about **Generative AI**, **Agentic Systems**, **mobile development** and **full stack development**
 - 🤝 Open to collaboration on: **a GenAI agent project**
-- 💬 Ask me about: `Jetpack Compose`, `Kotlin`, `LangChain`, `Spring AI`, `RAG`, `ONNX`
 - 📫 Reach me at: [rishulguptaofficial@gmail.com](mailto:rishulguptaofficial@gmail.com)
 - 💼 Explore more: [LinkedIn](https://www.linkedin.com/in/rishul-gupta-7a0750299)
 
@@ -28,24 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishulgupta&theme=react" alt="Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishulgupta&show_icons=true&theme=react&hide_border=true" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulgupta&layout=compact&theme=react" alt="Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishulgupta&theme=onedark&no-bg=true&no-frame=true&margin-w=20" />
-</p>
-
----
-
-### 🐍 GitHub Contributions Snake
-<p align="center">
-  <img src="https://github.com/rishulgupta/rishulgupta/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -53,7 +34,7 @@
 ### 🚀 Featured Projects
 - 🔹 [Smart Bike Helmet](https://github.com/rishulgupta/Smart-Bike-Helmet) — crash detection, GPS, emergency SMS, & more  
 - 🔹 [Resume Analyzer](https://github.com/rishulgupta/Resume-Analyser) — ATS-based resume evaluator using NLP  
-- 🔹 [NLWeb-by-Microsoft](https://github.com/RishulGupta/NLWeb-by-Microsoft) — Microsoft-style Q&A web interface powered by GenAI  
+- 🔹 [SAR GAN](https://github.com/RishulGupta/SIH-2024) — Removes noise from satelite images 
 
 ---
 
@@ -71,11 +52,3 @@
 </p>
 
 ---
-
-### 🧠 Fun Fact
-> I debug faster when I’m vibing to music and Fanta-fueled sprints 🎧🥤  
-> Consistency is my caffeine — let’s build the future together!
-
----
-
-<p align="center">💻 Built with passion, designed for purpose, powered by curiosity ⚡</p>
