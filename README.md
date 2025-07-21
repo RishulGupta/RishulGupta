@@ -26,7 +26,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishulgupta&theme=react" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rishulgupta&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
