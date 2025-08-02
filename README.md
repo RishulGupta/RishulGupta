@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishul Gupta</h1>
-<h3 align="center">🚀 SDE Intern @Naukri.com • Internship Coordinator @ NIT Kurukshetra • IT'27</h3>
+<h3 align="center">🚀EX Software Engineer Intern @Naukri.com • Internship Coordinator @ NIT Kurukshetra • IT'27</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=D99CA3&center=true&width=850&lines=Full-Stack+Gen+AI+Engineer;Android+%7C+Spring+Boot+%7C+LLMs+%7C+LangChain;Building+Agentic+AI+Apps+for+Web+and+Mobile+🚀+++" alt="Typing SVG" />
