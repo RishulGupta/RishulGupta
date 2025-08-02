@@ -2,7 +2,7 @@
 <h3 align="center">🚀 SDE Intern @Naukri.com • Internship Coordinator @ NIT Kurukshetra • IT'27</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&width=850&lines=Full-Stack+Gen+AI+Engineer;Android+%7C+Spring+Boot+%7C+LLMs+%7C+LangChain;Building+Agentic+AI+Apps+for+Web+and+Mobile+🚀+++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=D99CA3&center=true&width=850&lines=Full-Stack+Gen+AI+Engineer;Android+%7C+Spring+Boot+%7C+LLMs+%7C+LangChain;Building+Agentic+AI+Apps+for+Web+and+Mobile+🚀+++" alt="Typing SVG" />
 </p>
 
 
@@ -39,7 +39,7 @@
 
 ### 🚀 Featured Projects
 - 🔹 [Smart Bike Helmet](https://github.com/rishulgupta/Smart-Bike-Helmet) — crash detection, GPS, emergency SMS, & more  
-- 🔹 [Resume Analyzer](https://github.com/rishulgupta/Resume-Analyser) — ATS-based resume evaluator using NLP  
+- 🔹 [Doc-Ask-Engine](https://github.com/RishulGupta/Doc-Ask-Engine-MCP) — An ask engine i made during my intern at naukri.com to answer questions about HR policies of the company
 - 🔹 [SAR GAN](https://github.com/RishulGupta/SIH-2024) — Removes noise from satelite images 
 
 ---
