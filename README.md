@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishul Gupta</h1>
+<h1 align="center">Rishul Gupta</h1>
 <h3 align="center">🚀EX Software Engineer Intern @Naukri.com • Internship Coordinator @ NIT Kurukshetra • IT'27</h3>
 
 <p align="center">
