@@ -39,7 +39,7 @@
 
 ### 🚀 Featured Projects
 - 🔹 [Smart Bike Helmet](https://github.com/rishulgupta/Smart-Bike-Helmet) — crash detection, GPS, emergency SMS, & more  
-- 🔹 [Doc-Ask-Engine](https://github.com/RishulGupta/Doc-Ask-Engine-MCP) — An ask engine i made during my intern at naukri.com to answer questions about HR policies of the company
+- 🔹 [Finance-Coach-AI](https://github.com/RishulGupta/Finance-Coach-AI) — Turn your bank statements into smart insights and get personalized advice from an AI financial assistant.
 - 🔹 [SAR GAN](https://github.com/RishulGupta/SIH-2024) — Removes noise from satelite images 
 
 ---
