@@ -24,16 +24,9 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=RishulGupta&theme=date_night&hide_border=false)
-  <br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishulGupta&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rishulgupta&theme=tokyonight" />
+</p>
 
 ---
 
